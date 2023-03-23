@@ -351,6 +351,8 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
 "Assets/Mod/Scripts/Spawn.cs"
+"Assets/Mod/Scripts/Velocidad.cs"
+"Assets/Mod/Scripts/Vida.cs"
 "Assets/Scripts/Attacks/FrostAttack.cs"
 "Assets/Scripts/Attacks/FrostDebuff.cs"
 "Assets/Scripts/Attacks/LightningAttack.cs"
